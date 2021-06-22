@@ -6,10 +6,9 @@ public class Application {
 
 	static final Logger logger = LoggerFactory.getLogger(Application.class);
 	public static void main(String[] args) {
-		logger.trace("trace message");
-		logger.debug("this is a debug message");
-		logger.info("this is a info message");
-		logger.warn("this is a warning message");
-		logger.error("this is a error message");
+		// TODO Auto-generated method stub
+		looger
+		logger.debug("this is debug message");
+		logger.error("this is error message");
 	}
 }
